@@ -1,0 +1,38 @@
+{
+  "name": "memact-extension",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Optional Memact browser extension for local capture and approved evidence export.",
+  "license": "SEE LICENSE IN LICENSE",
+  "type": "module",
+  "keywords": [
+    "memact",
+    "browser-extension",
+    "capture",
+    "evidence",
+    "personalization"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Memact/Extension.git"
+  },
+  "homepage": "https://github.com/Memact/Extension",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "postinstall": "node scripts/sync-vendors.mjs",
+    "sync-vendors": "node scripts/sync-vendors.mjs",
+    "check": "node scripts/check.mjs",
+    "build": "node scripts/package-extension.mjs",
+    "package-extension": "node scripts/package-extension.mjs"
+  },
+  "dependencies": {
+    "dexie": "^4.2.1",
+    "flexsearch": "^0.8.212",
+    "pdfjs-dist": "^5.4.149"
+  },
+  "devDependencies": {
+    "esbuild": "^0.27.0"
+  }
+}
