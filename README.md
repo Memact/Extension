@@ -19,7 +19,7 @@ Memact through SDK/API integration without installing the extension.
 - App API key verification.
 - User consent management.
 - Hosted memory storage.
-- Studio feature execution.
+- Playground feature execution.
 - Final personalization features.
 
 ## Development
