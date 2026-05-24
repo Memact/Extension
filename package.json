@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "description": "Optional Memact browser extension for local capture and approved evidence export.",
-  "license": "SEE LICENSE IN LICENSE",
+  "license": "MIT",
   "type": "module",
   "keywords": [
     "memact",

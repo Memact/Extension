@@ -1,19 +1,21 @@
-Business Source License 1.1
+﻿MIT License
 
-Licensor: Memact
-Licensed Work: Memact Extension
 Copyright (c) 2026 Memact
 
-This repository is source-available under BUSL-1.1.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-Additional Use Grant:
-You may use, copy, modify, and run the Licensed Work for personal, educational, research, internal evaluation, and non-production development purposes.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-You may not offer the Licensed Work, modified versions, or substantially similar functionality as a hosted, managed, commercial, or competing service to third parties without prior written permission from Memact.
-
-Change Date: 2030-05-17
-Change License: Apache License, Version 2.0
-
-Brand restriction: this license covers source code only. Memact names, logos, wordmarks, icons, artwork, screenshots, trade dress, domain names, and other brand assets are excluded and require prior written permission, except for factual references permitted by law.
-
-THE LICENSED WORK IS PROVIDED AS IS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
